@@ -1,0 +1,14 @@
+{
+    "width": 600,
+    "height": 300,
+    "components": [{
+        "type": "rect",
+        "left": 25,
+        "top": 25,
+        "width": 50,
+        "height": 50,
+        "strokeStyle": "black",
+        "fillStyle": "red",
+        "lineWidth": 2
+    }]
+}
